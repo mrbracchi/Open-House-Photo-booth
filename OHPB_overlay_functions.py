@@ -8,7 +8,7 @@ from itertools import cycle
 ##- Set the `overlays_dir` to the directory where your overlays are stored. If you are following this tutorial exactly, you will **not** need to change this directory location.
 ##- Set the `overlays` to be a list of the filenames of the overlays (without extension), surrounded by quotes and separated by commas.
 ##For example, if you had overlay images called `rock.png`, `paper.png`, and `scissors.png`, your line of code would look like this: overlays = ['rock', 'paper', 'scissors']
-overlays_dir = "/home/pi/Documents/allseeingpi/overlays"
+overlays_dir = "~Documents/OHPB/overlays"
 overlays = ['girl', 'cowboy', 'top', 'pink', 'glassesnose', 'moustache', 'sunglasses', 'elvis', 'emo', 'blackhat', 'emo2', 'baseball', 'flowers', 'santa', 'alps', 'mop', 'glasses']
 # ------------------------------------------
 
